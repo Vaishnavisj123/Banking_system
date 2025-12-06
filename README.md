@@ -1,6 +1,6 @@
 **FOR BANKING1.PY FILE AND BANKGUI.PY 
 
-🏦 Banking System – Streamlit App**
+🏦 Banking System – Streamlit App and tkinter app**
 
 A visually appealing and interactive Banking System built using Python, Streamlit, and OOP concepts.
 This project allows users to create accounts, deposit money, withdraw funds, transfer money, calculate interest, and view all accounts—all inside a modern UI with a finance-themed background.
